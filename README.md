@@ -52,6 +52,7 @@ Finally, the project included the visualization of the computed depth map and th
   <img src="stereo_res.gif">
 </p>
 
+The Two View Stereo Reconstruction project was a deep dive into the complexities of stereo vision, encompassing a range of techniques from camera calibration and image rectification to disparity computation and 3D reconstruction. It highlighted the practical challenges and solutions in transforming 2D images into a 3D model, using advanced algorithms and image processing techniques integral to the field of computer vision.
 
 
 ---
